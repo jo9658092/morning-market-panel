@@ -1,0 +1,43 @@
+{
+  "updated_at": "2026-04-21T02:00:00Z",
+  "source": "bootstrap-demo",
+  "items": [
+    {
+      "key": "DXY",
+      "label": "달러 인덱스 대체축",
+      "value": "104.2",
+      "chg": 0.28
+    },
+    {
+      "key": "US10Y",
+      "label": "미국 10년 금리",
+      "value": "4.36%",
+      "chg": 0.11
+    },
+    {
+      "key": "SPX",
+      "label": "S&P 500 대체축",
+      "value": "5214",
+      "chg": -0.42
+    },
+    {
+      "key": "VIX",
+      "label": "VIX",
+      "value": "17.8",
+      "chg": 1.62
+    },
+    {
+      "key": "WTI",
+      "label": "WTI 대체축",
+      "value": "83.4",
+      "chg": 0.56
+    }
+  ],
+  "notes": {
+    "schedule_kst": [
+      "07:00",
+      "15:00"
+    ],
+    "warning": "무료 데이터 기반 대체 패널입니다. 블룸버그 원데이터가 아닙니다."
+  }
+}
